@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there 
 
-I am Deepa, a software engineer by profession with 8+ years of experience. <br/>
+I am Deepa, a software engineer by profession with 8.5 years of experience. <br/>
 I'm currently working on learning about distributed systems and developing microservices at scale. <br/>
 
 #### Technologies I have worked with 👨‍💻
 
-* Programming Languages: Go, NodeJs, Python
+* Programming Languages: Go, Python, Node.js
 * Frameworks: Flask, Django
-* Platform/tools: Kubernetes, Amazon Web Services, Docker
+* Platform/tools: Kubernetes, Amazon Web Services, Docker, Terraform
 * Databases: MySql, Elasticsearch, Redis
 
 <a href="https://github.com/deepavk/deepavk">
