@@ -1,7 +1,7 @@
-### Hi there 
+### Hi there 👋
 
-I am Deepa, a software engineer by profession with 8.5 years of experience. <br/>
-I'm currently working on learning about distributed systems and developing microservices at scale. <br/>
+I'm Deepa, a software engineer by profession with 8.5 years of experience. <br/>
+I an currently working on learning about distributed systems and developing microservices at scale. <br/>
 
 #### Technologies I have worked with 👨‍💻
 
